@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authstringify",
+        "uuid": 25142354,
+        "checksum": "v01smk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
